@@ -7,7 +7,7 @@ pipeline{
     stages{
         stage('checkout'){
            steps{
-               git branch: 'main', url: 'https://github.com/Siddeshg672/hello_world_public_war.git'
+               git branch: 'main', url: 'https://github.com/mohithdevops9/Jenkinss.git'
            } 
         }
         
